@@ -1,12 +1,26 @@
-## Hi there 👋
+# Zop Studios
 
-<!--
+**Zop Studios is an independent game development studio dedicated to creating immersive online worlds.**
 
-**Here are some ideas to get you started:**
+We focus on building multiplayer-first experiences with strong technical foundations, scalable backend systems, and clean, modern design principles. Our goal is to create persistent online environments that feel alive — worlds that players can invest in, grow within, and return to.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## Our Approach
+
+At Zop Studios, we prioritise:
+
+- **Multiplayer architecture first** — Networking is never an afterthought.
+- **Scalable infrastructure** — Built to grow with the playerbase.
+- **Clean systems design** — Modular, maintainable, and future-proof.
+- **Long-term vision** — Designed for live-service expansion.
+
+---
+
+## Current Focus
+
+We are actively developing:
+
+- Multiplayer game systems
+- Backend architecture and server infrastructure
+- Tools and frameworks to support persistent online experiences
